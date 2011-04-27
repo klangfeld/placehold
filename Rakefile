@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "placehold"
   gem.homepage = "http://github.com/sid137/placehold"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ one-line summary of your gem}
+  gem.description = %Q{T longer description of your gem}
   gem.email = "sid137@gmail.com"
   gem.authors = ["Sidney Burks"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
